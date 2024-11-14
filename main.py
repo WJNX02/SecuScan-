@@ -51,15 +51,15 @@ def scan_domains(domains):
         results[domain] = found_url if found_url else "Not found"
     return results
 
-# Display the WJNX.nl
+# Display the WJNX.nl banner
 display_banner()
 
 # Load domains from a text file
 domains_to_scan = load_domains("domains.txt")
 results = scan_domains(domains_to_scan)
 
-# Generate a filename with the current date
-date_str = datetime.now().strftime("%Y-%m-%d")
+# Generate a filename with the current date and time
+date_str = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 filename = f"scan_results_{date_str}.txt"
 
 # Save results to the generated filename
