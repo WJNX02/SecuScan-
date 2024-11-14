@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb5b0c17-2180-40a1-8338-136135eec245" name="Changes" comment="" />
+    <list default="true" id="fb5b0c17-2180-40a1-8338-136135eec245" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/domains.txt" beforeDir="false" afterPath="$PROJECT_DIR$/domains.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\WJNX\Software\Git Repo\SecuScan-" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="X:\WJNX\Software\Git Repo\SecuScan-" />
     </key>
